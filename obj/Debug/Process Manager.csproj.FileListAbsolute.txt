@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Process Manager\Process Manager\bin\Debug\Process Manager.exe.config
+C:\Users\hp\source\repos\Process Manager\Process Manager\bin\Debug\Process Manager.exe
+C:\Users\hp\source\repos\Process Manager\Process Manager\bin\Debug\Process Manager.pdb
+C:\Users\hp\source\repos\Process Manager\Process Manager\obj\Debug\Process Manager.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Process Manager\Process Manager\obj\Debug\Process Manager.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Process Manager\Process Manager\obj\Debug\Process Manager.exe
+C:\Users\hp\source\repos\Process Manager\Process Manager\obj\Debug\Process Manager.pdb
